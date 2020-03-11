@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello World, this is sample.
+=======
+Hello World, this is sample
+Changed
+>>>>>>> 8f0b19dc9891d249e9f863a3d48c13858af0d1ee
